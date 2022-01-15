@@ -14,5 +14,5 @@ spec:
       hosts:
         - host: "*"
           paths:
-            - path: /
+            - path: /podinfo
               pathType: ImplementationSpecific
