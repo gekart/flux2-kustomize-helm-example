@@ -11,7 +11,7 @@ spec:
     enable: false
   values:
     ui:
-      color: "#ff577c"
+      color: "#34577c"
     ingress:
       hosts:
         - host:
