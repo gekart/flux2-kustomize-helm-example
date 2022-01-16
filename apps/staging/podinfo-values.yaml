@@ -12,7 +12,7 @@ spec:
   values:
     ingress:
       hosts:
-        - host: ad4c52dff457b4585a04caec0c578cc3-991302792.eu-central-1.elb.amazonaws.com
+        - host:
           paths:
             - path: /
               pathType: ImplementationSpecific
